@@ -1,0 +1,9 @@
+{
+	"name": "AdwrksDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c22d4e5-2a78-4e3b-a3be-e539c1c9bc14",
+		"tenantId": "821571fe-f148-4b87-b275-6fcc63b79d68"
+	}
+}
