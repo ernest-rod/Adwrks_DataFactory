@@ -27,6 +27,9 @@
 				}
 			}
 		],
+		"folder": {
+			"name": "Delta Lake"
+		},
 		"annotations": []
 	}
 }
