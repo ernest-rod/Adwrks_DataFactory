@@ -1,6 +1,9 @@
 {
 	"name": "mdf_createinsert_deltalake",
 	"properties": {
+		"folder": {
+			"name": "Delta Lake"
+		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
 			"sources": [

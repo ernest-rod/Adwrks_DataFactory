@@ -1,6 +1,9 @@
 {
 	"name": "mdf_update_deltalake",
 	"properties": {
+		"folder": {
+			"name": "Delta Lake"
+		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
 			"sources": [
