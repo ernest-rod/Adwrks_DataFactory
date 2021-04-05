@@ -1,0 +1,9 @@
+{
+	"name": "DeleteFrom_DeltaLake",
+	"properties": {
+		"folder": {
+			"name": "Delta Lake"
+		},
+		"annotations": []
+	}
+}
