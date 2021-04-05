@@ -5,6 +5,9 @@
 			"referenceName": "AzureDataLakeStorage",
 			"type": "LinkedServiceReference"
 		},
+		"folder": {
+			"name": "Delta Lake/Raw"
+		},
 		"annotations": [],
 		"type": "Parquet",
 		"typeProperties": {
