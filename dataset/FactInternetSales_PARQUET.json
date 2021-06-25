@@ -1,0 +1,23 @@
+{
+	"name": "FactInternetSales_PARQUET",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "Adwrks CSV Files"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "test_area/inbound/Raw",
+				"fileSystem": "adwrks"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
