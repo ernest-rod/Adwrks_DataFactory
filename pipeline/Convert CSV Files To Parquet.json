@@ -1,0 +1,9 @@
+{
+	"name": "Convert CSV Files To Parquet",
+	"properties": {
+		"folder": {
+			"name": "CSV Convertion"
+		},
+		"annotations": []
+	}
+}
