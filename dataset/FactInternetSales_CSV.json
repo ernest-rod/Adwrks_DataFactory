@@ -1,5 +1,5 @@
 {
-	"name": "FactInternetSales",
+	"name": "FactInternetSales_CSV",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage",
