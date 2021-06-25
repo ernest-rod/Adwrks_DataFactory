@@ -13,6 +13,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "factinternetsales.parquet",
 				"folderPath": "test_area/inbound/Raw",
 				"fileSystem": "adwrks"
 			},
